@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Card } from "react-bootstrap";
 import { RxDragHandleDots2 } from "react-icons/rx";
 

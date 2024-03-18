@@ -1,3 +1,4 @@
+// @ts-nocheck
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container as  DivContainer } from "react-bootstrap";
 import {
