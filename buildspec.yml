@@ -11,5 +11,6 @@ phases:
   #   commands:
   #     - aws s3 cp --recursive ./dist s3://20240319-react-app/
 artifacts:
+  base-directory: dist
   files:
     - '**/*'
