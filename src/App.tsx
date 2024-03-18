@@ -350,7 +350,7 @@ function App() {
         <div className="d-flex">
           <DivContainer className="mt-3">
             <div>
-              <h1 className="text-center">タイトル v2</h1>
+              <h1 className="text-center">タイトル v3</h1>
               <div className="d-grid gap-2 d-md-flex justify-content-md-end">
                 <button onClick={addNewContainer} className="btn btn-primary me-2" type="button">カードを追加</button>
               </div>
