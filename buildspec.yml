@@ -9,4 +9,4 @@ phases:
       - npm run build
   post_build:
     commands:
-      - aws s3 cp --recursive ./build s3://20240319-react-app/
+      - aws s3 cp --recursive ./dist s3://20240319-react-app/
