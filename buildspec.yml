@@ -10,3 +10,6 @@ phases:
   # post_build:
   #   commands:
   #     - aws s3 cp --recursive ./dist s3://20240319-react-app/
+artifacts:
+  files:
+    - '**/*'
